@@ -1,1 +1,1 @@
-web gunicorn VidChat.msgi:apllication --log-file -
+web gunicorn mychat.msgi:apllication --log-file -

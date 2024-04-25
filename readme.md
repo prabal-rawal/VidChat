@@ -13,7 +13,7 @@
 
     * Head over to https://www.agora.io/en/ and create your very own Agora app.
     * Once your app is up and running, locate the sacred `appid` and `appCertificate`. These are your keys to the video chat kingdom!
-    * Carefully copy and paste these magical incantations into the designated spots within `views.py` and `streams.js`. (Feeling a bit lost? This handy guide might shed some light: https://www.youtube.com/watch?v=Ho1BCwxgsR0)
+    * Carefully copy and paste these magical incantations into the designated spots within `views.py` and `streams.js`.
 
     **Here's a peek at the incantations you'll be replacing:**
 

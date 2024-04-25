@@ -1,0 +1,1 @@
+web gunicorn mysite.msgi:apllication --log-file -
